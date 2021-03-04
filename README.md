@@ -34,7 +34,7 @@ Installation:
   3. Activate a python virtual environments (Optional), and run `pip install numpy-1.18.5-cp38-cp38-macosx_11_0_arm64.whl`;  
   4. Download this, goto download_dir, and run `pip install opencv_python-4.5.1.48-cp38-cp38-macosx_11_0_arm64.whl`  
 
-### ~~Pre-built Binaries with Extra Modules *[Download][opencv]*  ~~
+### ~~Pre-built Binaries with Extra Modules *[Download][opencv]*~~  
 > opencv_contrib Included  
 > Dynamic Link Libraries  
 > Python2.7 Supported  
