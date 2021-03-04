@@ -18,7 +18,7 @@ Platforms and architectures:
   * macOS: `x86_64`, `arm64`  
   * Mac Catalyst: `x86_64`, `arm64`  
 
-### Python3 Package *[Download][opencv-python]*  
+### Python3 Packages *[Download][opencv-python]*  
 Version: `4.5.1.48`  
 
 System Requirements:  
@@ -52,6 +52,32 @@ System Requirements:
 Platforms and architectures:  
   * macOS: `arm64`  
 
+## Qt  
+
+### Python3 Packages *[Download][pyside6]*  
+Version: `6.0.1`  
+
+System Requirements:  
+  * macOS Big Sur 11.2.2  
+  * Command Line Tools for Xcode 12.4  
+  * Python 3.8.2 (included in Command Line Tools)   
+
+Platforms and architectures:  
+  * macOS: `arm64`  
+
+Installation:  
+  1. Download, and extract;  
+  2. Open Terminal.app in the directory, and run `pip install *.whl`   
+
+### Pre-built Binaries *[Download][qt]*  
+Version: `6.0.1`  
+
+System Requirements:  
+  * macOS Big Sur 11.2.2  
+  * Xcode 12.4  
+
+Platforms and architectures:  
+  * macOS: `arm64`  
 
 
 
@@ -61,11 +87,12 @@ Platforms and architectures:
 
 
 
-
-
-
-[^_^]:links
-[opencv.xcframeworls]:https://a/
-[opencv-python]:https://b/
-[opencv]:https://c/
+[^_^]:Links
+[^_^]:OpenCV
+[opencv.xcframeworls]:https://github.com/SloneWang/SelfBuilds_macOS_ARM64/releases/download/opencv451/opencv2.xcframework.7z
+[opencv-python]:https://github.com/SloneWang/SelfBuilds_macOS_ARM64/releases/download/opencv451/opencv_python-4.5.1.48-cp38-cp38-macosx_11_0_arm64.whl
+[opencv]:https://github.com/SloneWang/SelfBuilds_macOS_ARM64/releases/download/opencv451/OpenCV-4.5.1-macosx_11_0_arm64.7z
 [apple.numpy]:https://github.com/apple/tensorflow_macos/releases/download/v0.1alpha3/tensorflow_macos-0.1alpha3.tar.gz
+[^_^]:Qt
+[pyside6]:https://github.com/SloneWang/SelfBuilds_macOS_ARM64/releases/download/qt601/PySide-6.0.1-cp38-macosx_11_0_arm64.7z
+[qt]:https://github.com/SloneWang/SelfBuilds_macOS_ARM64/releases/download/qt601/Qt-6.0.1-macosx_11_0_arm64.7z
