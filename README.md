@@ -49,3 +49,21 @@ System Requirements:
 
 Platforms and architectures:  
   * macOS: `arm64`  
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^_^]:links
+[opencv.xcframeworls]:https://a/
+[opencv-python]:https://b/
+[opencv]:https://c/
+[apple.numpy]:https://github.com/apple/tensorflow_macos/releases/download/v0.1alpha3/tensorflow_macos-0.1alpha3.tar.gz
