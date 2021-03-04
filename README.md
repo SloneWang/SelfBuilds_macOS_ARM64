@@ -6,20 +6,22 @@ Here are some pre-built frameworks, tools, python packages for Apple Silicon (ma
 ## OpenCV  
 
 ### Xcode Frameworks *[Download][opencv.xcframeworls]*  
-Version: `4.5.1`  
+> opencv2.xcframework  
+> Version: 4.5.1  
 
 System Requirements:  
   * macOS Big Sur 11.2.2  
   * Xcode 12.4  
 
 Platforms and architectures:  
-  * iOS: `arm64`, `armv7`  
-  * iOS Simulator: `x86_64`, `arm64`  
-  * macOS: `x86_64`, `arm64`  
-  * Mac Catalyst: `x86_64`, `arm64`  
+  * iOS: arm64, armv7  
+  * iOS Simulator: x86_64, arm64  
+  * macOS: x86_64, arm64  
+  * Mac Catalyst: x86_64, arm64  
 
 ### Python3 Packages *[Download][opencv-python]*  
-Version: `4.5.1.48`  
+> opencv-python
+> Version: 4.5.1.48  
 
 System Requirements:  
   * macOS Big Sur 11.2.2  
@@ -28,7 +30,7 @@ System Requirements:
   * numpy 1.18.5 (See installation)  
 
 Platforms and architectures:  
-  * macOS: `arm64`  
+  * macOS: arm64  
 
 Installation:  
   1. Download [tensorflow_macos-0.1alpha3.tar.gz][apple.numpy] and extract;  
@@ -37,25 +39,26 @@ Installation:
   4. Download this, goto download_dir, and run `pip install opencv_python-4.5.1.48-cp38-cp38-macosx_11_0_arm64.whl`  
 
 ### ~~Pre-built Binaries with Extra Modules *[Download][opencv]*~~  
+> opencv
 > opencv_contrib Included  
 > Dynamic Link Libraries  
 > Python2.7 Supported  
 > Python3.X Unsopported  
 > Java Unsopported  
-
-Version: `4.5.1`  
+> Version: 4.5.1  
 
 System Requirements:  
   * macOS Big Sur 11.2.2  
   * Xcode 12.4  
 
 Platforms and architectures:  
-  * macOS: `arm64`  
+  * macOS: arm64  
 
 ## Qt  
 
 ### Python3 Packages *[Download][pyside6]*  
-Version: `6.0.1`  
+> PySide6, shiboken6, shiboken6-generator
+> Version: 6.0.1  
 
 System Requirements:  
   * macOS Big Sur 11.2.2  
@@ -63,21 +66,22 @@ System Requirements:
   * Python 3.8.2 (included in Command Line Tools)   
 
 Platforms and architectures:  
-  * macOS: `arm64`  
+  * macOS: arm64  
 
 Installation:  
   1. Download, and extract;  
   2. Open Terminal.app in the directory, and run `pip install *.whl`   
 
 ### Pre-built Binaries *[Download][qt]*  
-Version: `6.0.1`  
+> qt
+> Version: 6.0.1  
 
 System Requirements:  
   * macOS Big Sur 11.2.2  
   * Xcode 12.4  
 
 Platforms and architectures:  
-  * macOS: `arm64`  
+  * macOS: arm64  
 
 
 
